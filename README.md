@@ -4,3 +4,4 @@ Olá! Bem-vindos ao meu livro de receitas! :cookie:
 
 - Bolinho de chuva
 - Pavê
+- Bolo de Cenoura
